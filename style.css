@@ -8,6 +8,5 @@ section{padding:70px 0}section:nth-of-type(even){background:#f8fafc}h2{font-size
 .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px}.card{background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:24px}.card h3{margin:0 0 8px;color:#1e3a8a}
 .num{display:inline-block;width:34px;height:34px;border-radius:50%;background:#1e3a8a;color:#fff;text-align:center;line-height:34px;font-weight:700}
 details{border-bottom:1px solid #e5e7eb;padding:14px 0}summary{font-weight:600;cursor:pointer}
-.note{background:#fff7ed;border-left:4px solid #f97316;padding:16px;border-radius:6px;font-size:14px}
 footer{background:#0b1f44;color:#cbd5e1;padding:36px 0;font-size:14px}footer a{color:#fff}
 @media(max-width:700px){nav{display:none}}
