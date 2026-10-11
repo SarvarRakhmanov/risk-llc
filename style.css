@@ -62,3 +62,10 @@ nav a{white-space:nowrap}
 @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(37,211,102,.45),0 8px 20px rgba(0,0,0,.25)}50%{box-shadow:0 0 0 12px rgba(37,211,102,0),0 8px 20px rgba(0,0,0,.25)}}
 @media(max-width:800px){.tgfloat{bottom:150px}}
 @media(prefers-reduced-motion:reduce){*,*:before,*:after{animation:none!important;transition:none!important}.rv{opacity:1;transform:none}.stamp{opacity:1;transform:rotate(-12deg)}}
+.lb{position:fixed;inset:0;z-index:200;background:rgba(5,14,32,.92);display:none;align-items:center;justify-content:center;opacity:0;transition:opacity .3s}.lb.on{display:flex;opacity:1;animation:lbf .3s}.lb.out{opacity:0}
+@keyframes lbf{from{opacity:0}to{opacity:1}}
+.lb figure{margin:0;max-width:92vw;max-height:92vh;display:flex;flex-direction:column;align-items:center;gap:10px}.lb img{max-width:90vw;max-height:80vh;border-radius:14px;box-shadow:0 20px 60px rgba(0,0,0,.5);background:#fff;transform-origin:center}
+.lb figcaption{color:#fff;text-align:center;font-size:15px;max-width:720px}.lb figcaption b{display:flex;justify-content:center;align-items:center;gap:6px;font-family:Poppins}.lb figcaption span{display:block;color:#c9d4ea;font-size:13px}.lb .stamp{display:none}
+.lb button{position:absolute;background:rgba(255,255,255,.12);color:#fff;border:0;border-radius:50%;width:52px;height:52px;font-size:34px;line-height:1;cursor:pointer;transition:background .2s}.lb button:hover{background:rgba(255,255,255,.25)}
+.lbx{top:18px;right:18px}.lbp{left:18px;top:50%;transform:translateY(-50%)}.lbn{right:18px;top:50%;transform:translateY(-50%)}
+@media(max-width:600px){.lbp,.lbn{top:auto;bottom:18px;transform:none}}
