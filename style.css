@@ -69,3 +69,5 @@ nav a{white-space:nowrap}
 .lb button{position:absolute;background:rgba(255,255,255,.12);color:#fff;border:0;border-radius:50%;width:52px;height:52px;font-size:34px;line-height:1;cursor:pointer;transition:background .2s}.lb button:hover{background:rgba(255,255,255,.25)}
 .lbx{top:18px;right:18px}.lbp{left:18px;top:50%;transform:translateY(-50%)}.lbn{right:18px;top:50%;transform:translateY(-50%)}
 @media(max-width:600px){.lbp,.lbn{top:auto;bottom:18px;transform:none}}
+.ask{margin-top:28px;padding:28px;border-radius:20px;background:linear-gradient(135deg,var(--navy),#163a7a);color:#fff;text-align:center}.ask h3{margin:0 0 6px;font:700 24px Poppins;display:flex;gap:8px;justify-content:center;align-items:center}.ask p{color:#c9d4ea}
+.anydoc{display:flex;gap:14px;align-items:center;margin-top:22px;padding:20px 22px;border-radius:18px;background:linear-gradient(135deg,var(--gold),var(--orange));color:#fff}.anydoc .ico{width:36px;height:36px}.anydoc b{display:block;font:700 20px Poppins}

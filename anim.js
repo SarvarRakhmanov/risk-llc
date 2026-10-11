@@ -10,7 +10,7 @@ var els=d.querySelectorAll(sel);els.forEach(function(e){e.classList.add('rv')});
 var io=new IntersectionObserver(function(es){es.forEach(function(e){if(e.isIntersecting){e.target.classList.add('in');io.unobserve(e.target)}})},{threshold:.12,rootMargin:'0px 0px -40px 0px'});
 els.forEach(function(e){io.observe(e)});
 // count-up for true numeric badges
-d.querySelectorAll('.badge b').forEach(function(b){var m=b.textContent.match(/^(\d+)(.*)$/);if(!m)return;var n=+m[1],rest=m[2];
+d.querySelectorAll('.badge b').forEach(function(b){var m=b.textContent.match(/^(\d+)(\s.*)$/);if(!m)return;var n=+m[1],rest=m[2];
  var o=new IntersectionObserver(function(es){if(!es[0].isIntersecting)return;o.disconnect();var t0=performance.now();
   (function f(t){var p=Math.min(1,(t-t0)/1200);b.textContent=Math.round(n*(1-Math.pow(1-p,3)))+rest;if(p<1)requestAnimationFrame(f)})(t0)});o.observe(b)});
 // confetti + staggered stamps on success gallery / homepage teaser
