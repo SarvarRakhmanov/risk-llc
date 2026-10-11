@@ -73,3 +73,7 @@ nav a{white-space:nowrap}
 .anydoc{display:flex;gap:14px;align-items:center;margin-top:22px;padding:20px 22px;border-radius:18px;background:linear-gradient(135deg,var(--gold),var(--orange));color:#fff}.anydoc .ico{width:36px;height:36px}.anydoc b{display:block;font:700 20px Poppins}
 @media(max-width:600px){.gal:not(.teaser){grid-template-columns:1fr 1fr}}
 .gal:not(.teaser) img{aspect-ratio:3/4;height:auto;width:100%;object-fit:cover;display:block}
+/* stock footage in articles */
+.article .stock-hero,.article .stock-img{margin:14px 0 18px;border-radius:14px;overflow:hidden;background:#0b1b33}
+.article .stock-hero video,.article .stock-img img{display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover}
+.article .stock-img img{aspect-ratio:3/2}
