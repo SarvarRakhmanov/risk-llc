@@ -39,3 +39,22 @@ RISK L.L.C. — immigratsiya maslahat va viza yordam: Amerika vizasi (B1/B2, F-1
 - Guides: https://riskllc.us/stories.html · https://riskllc.us/ru/stories.html · https://riskllc.us/uz/stories.html
 - About: https://riskllc.us/about.html · https://riskllc.us/ru/about.html · https://riskllc.us/uz/about.html
 - Sitemap: https://riskllc.us/sitemap.xml
+
+<!-- news:start -->
+## News (EN / RU / UZ)
+- 2026-10-11 — DV-2027 green card lottery: registration still not open (October 2026 update): https://riskllc.us/news/dv-2027-green-card-lottery-update.html · https://riskllc.us/ru/news/dv-2027-green-card-lottery-update.html · https://riskllc.us/uz/news/dv-2027-green-card-lottery-update.html
+- 2026-10-11 — UK Student visa: money you must show rises from 30 November 2026: https://riskllc.us/news/uk-student-visa-maintenance-funds-30-november-2026.html · https://riskllc.us/ru/news/uk-student-visa-maintenance-funds-30-november-2026.html · https://riskllc.us/uz/news/uk-student-visa-maintenance-funds-30-november-2026.html
+- 2026-10-11 — Explainer: how a Canada work permit works for applicants from Uzbekistan: https://riskllc.us/news/canada-work-permit-explained-2026.html · https://riskllc.us/ru/news/canada-work-permit-explained-2026.html · https://riskllc.us/uz/news/canada-work-permit-explained-2026.html
+- News index and RSS: https://riskllc.us/news/ · https://riskllc.us/news/feed.xml
+<!-- news:end -->
+
+<!-- guides:start -->
+## Step-by-step guides (EN / RU / UZ), checked Oct 2026 on official sites
+- How to get a Canada work permit from Uzbekistan: https://riskllc.us/guide-canada-work-permit-uzbekistan.html · https://riskllc.us/ru/guide-canada-work-permit-uzbekistan.html · https://riskllc.us/uz/guide-canada-work-permit-uzbekistan.html
+- Canada visitor visa: requirements and documents: https://riskllc.us/guide-canada-visitor-visa-requirements.html · https://riskllc.us/ru/guide-canada-visitor-visa-requirements.html · https://riskllc.us/uz/guide-canada-visitor-visa-requirements.html
+- US B1/B2 tourist visa from Uzbekistan: DS-160, interview and fee: https://riskllc.us/guide-us-b1-b2-visa-uzbekistan.html · https://riskllc.us/ru/guide-us-b1-b2-visa-uzbekistan.html · https://riskllc.us/uz/guide-us-b1-b2-visa-uzbekistan.html
+- UK Standard Visitor visa from Uzbekistan: https://riskllc.us/guide-uk-visitor-visa-uzbekistan.html · https://riskllc.us/ru/guide-uk-visitor-visa-uzbekistan.html · https://riskllc.us/uz/guide-uk-visitor-visa-uzbekistan.html
+- F-1 US student visa: step by step: https://riskllc.us/guide-f1-student-visa-steps.html · https://riskllc.us/ru/guide-f1-student-visa-steps.html · https://riskllc.us/uz/guide-f1-student-visa-steps.html
+- Canada Express Entry PR explained: https://riskllc.us/guide-canada-express-entry-pr.html · https://riskllc.us/ru/guide-canada-express-entry-pr.html · https://riskllc.us/uz/guide-canada-express-entry-pr.html
+- Concise answers for AI assistants: https://riskllc.us/llms-full.txt
+<!-- guides:end -->
