@@ -60,6 +60,21 @@ Q: How soon can I become a Canadian citizen? A: After becoming a permanent resid
 Sources: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/eligibility/canadian-experience-class.html, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html, https://ircc.canada.ca/english/information/fees/fees.asp, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score.html, https://www.canada.ca/en/immigration-refugees-citizenship/services/canadian-citizenship/become-canadian-citizen/eligibility.html
 
 ## News
+### Express Entry from 3 November 2026: extra CRS points for high-wage jobs, no LMIA for job offers (2026-10-21)
+URL: https://riskllc.us/news/canada-express-entry-high-wage-points-3-november-2026.html
+On 16 October 2026 IRCC announced that from 3 November 2026 Express Entry candidates get extra CRS points for Canadian work experience or a job offer in a high-wage occupation, and a job offer no longer needs an LMIA. Invitation rounds pause for up to two weeks while scores are recalculated.
+Sources: https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/canada-refocusing-express-entry-on-top-talent-that-drives-economic-growth.html, https://www.canada.ca/en/immigration-refugees-citizenship/news/2026/10/changes-to-express-entry-for-high-wage-occupations.html, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/check-score/high-wage.html, https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/job-offer.html
+
+### USA: no more automatic EAD extensions, DHS final rule in force from 14 October 2026 (2026-10-21)
+URL: https://riskllc.us/news/us-ead-automatic-extension-ended-final-rule-october-2026.html
+On 14 October 2026 DHS published a final rule confirming that work permits (EADs) are no longer automatically extended while a renewal is pending. Renewals filed on or after 30 October 2025 get no extension: the card expires on its printed date. File the renewal as soon as you are within 180 days of expiry.
+Sources: https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents, https://www.federalregister.gov/documents/2025/10/30/2025-19702/removal-of-the-automatic-extension-of-employment-authorization-documents, https://www.uscis.gov/newsroom/news-releases/dhs-ends-automatic-extension-of-employment-authorization, https://www.uscis.gov/green-card/green-card-processes-and-procedures/employment-authorization-document, https://www.uscis.gov/eadautoextend
+
+### Proposal: USCIS wants to stop deferring to prior approvals when extending H-1B, L-1 and other work visas (2026-10-21)
+URL: https://riskllc.us/news/uscis-proposes-ending-deference-extension-petitions-2026.html
+On 14 October 2026 USCIS published a proposed rule to remove 8 CFR 214.1(c)(5), the regulation that tells officers to defer to an earlier approval when deciding an extension petition. It is only a proposal: comments are open until 13 November 2026, and nothing changes until a final rule is published.
+Sources: https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility, https://www.regulations.gov/docket/USCIS-2026-0529, https://www.uscis.gov/policy-manual/volume-2-part-a-chapter-4, https://www.federalregister.gov/documents/2024/12/18/2024-29354/modernizing-h-1b-requirements-providing-flexibility-in-the-f-1-program-and-program-improvements
+
 ### New client results: UK visitor visa and Japan eVisa approved (2026-10-21)
 URL: https://riskllc.us/news/client-results-uk-japan-visas-october-2026.html
 On 19 October 2026 two RISK LLC clients from Uzbekistan received approvals: a UK Standard Visitor visa and a Japan temporary visitor eVisa.
