@@ -48,3 +48,21 @@ lb.addEventListener('touchend',function(e){if(x0===null)return;var dx=e.changedT
 lb.addEventListener('touchend',function(e){},{passive:true});
 if(location.hash==='#lb-test')setTimeout(function(){(imgs[0].closest('a')||imgs[0]).click()},600);
 })();
+// mobile: collapse the category chips into one toggle
+(function(){
+var d=document,L=(d.documentElement.lang||'en').slice(0,2);
+var T={ru:'Категории',uz:'Bo\u2018limlar',en:'Categories'}[L]||'Categories';
+d.querySelectorAll('.pills').forEach(function(p,i){
+ if(p.parentNode.classList.contains('pillnav'))return;
+ var w=d.createElement('div');w.className='pillnav';
+ var b=d.createElement('button');b.type='button';b.className='pilltog';
+ b.setAttribute('aria-expanded','false');p.id=p.id||('pills'+i);b.setAttribute('aria-controls',p.id);
+ b.innerHTML='<span aria-hidden="true">\u2630</span> '+T+' <span class="car" aria-hidden="true">\u25BE</span>';
+ p.parentNode.insertBefore(w,p);w.appendChild(b);w.appendChild(p);
+ function set(o){w.classList.toggle('open',o);b.setAttribute('aria-expanded',o?'true':'false');}
+ b.addEventListener('click',function(e){e.stopPropagation();set(!w.classList.contains('open'));});
+ p.addEventListener('click',function(e){if(e.target.closest('a'))set(false);});
+ d.addEventListener('click',function(e){if(!w.contains(e.target))set(false);});
+ d.addEventListener('keydown',function(e){if(e.key==='Escape')set(false);});
+});
+})();
