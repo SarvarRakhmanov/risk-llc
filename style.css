@@ -90,3 +90,7 @@ img{max-width:100%;height:auto}
 /* mobile category menu: one compact toggle, collapsed by default */
 .pilltog{display:none}
 @media(max-width:800px){.pillnav{position:sticky;top:84px;z-index:30;margin:18px 0 4px;height:0;overflow:visible}.pillnav .pilltog{display:inline-flex;align-items:center;gap:8px;padding:9px 16px;border-radius:999px;background:var(--navy);color:#fff;border:0;font:600 14px/1.2 inherit;font-family:inherit;box-shadow:0 4px 14px rgba(10,31,68,.22);cursor:pointer}.pillnav .pilltog .car{transition:transform .2s}.pillnav.open .pilltog .car{transform:rotate(180deg)}.pillnav .pills{display:none;position:absolute;top:46px;left:0;right:0;margin:0;flex-direction:column;flex-wrap:nowrap;gap:6px;padding:10px;background:#fff;border:1px solid var(--line);border-radius:16px;box-shadow:0 12px 30px rgba(10,31,68,.18);max-height:65vh;overflow:auto}.pillnav.open .pills{display:flex}.pillnav .pill{justify-content:flex-start}.pillnav+*{margin-top:56px}main section[id],.sec[id],article[id]{scroll-margin-top:140px}}
+
+.steps.two{grid-template-columns:repeat(2,1fr);max-width:920px;margin:0 auto}
+.step a.more{display:inline-block;margin-top:12px;font-weight:600}
+@media(max-width:800px){.steps.two{grid-template-columns:1fr}}
